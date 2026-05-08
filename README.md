@@ -71,15 +71,15 @@ I specialize in **Domain-Driven Design (DDD)**, **Event-Driven architectures**, 
 
 ## 📚 Education & Certifications
 
-🎓 **Automated Systems Engineering** — Kyrgyz State Technical University (2014)  
-🎓 **System Architect** — OTUS (2021)  
-🎓 **Highload Systems Architect** — OTUS (2021)  
+🎓 **Automated Systems Engineering** — Kyrgyz State Technical University  
+🎓 **System Architect** — OTUS
+🎓 **Highload Systems Architect** — OTUS
 
 ---
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viktor-gievoi/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viktor-gievoi-senior-backend-engineer)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/vasary)
 [![Email](https://img.shields.io/badge/Email-gievoi.v%40gmail.com-red?logo=gmail&logoColor=white)](mailto:gievoi.v@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-%2B49%20162%20150%207483-green?logo=whatsapp&logoColor=white)](tel:+491621507483)
