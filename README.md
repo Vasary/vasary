@@ -1,9 +1,9 @@
 # 👋 Hey there, I'm Viktor!
 
 🚀 **Senior Software Developer** | **Backend Engineer** | **System Architect**  
-📍 Leipzig, Germany | 🇺🇸 English — Work Proficiency | 🇩🇪 Deutsch — A1  
+📍 Berlin, Germany | 🇺🇸 English — Full Work Proficiency | 🇩🇪 Deutsch — B1  
 
-With 13+ years of experience, I design, develop, and maintain **highly scalable, distributed systems**.  
+With 10 years of experience, I design, develop, and maintain **highly scalable, distributed systems**.  
 I specialize in **Domain-Driven Design (DDD)**, **Event-Driven architectures**, **microservices**, and **high-load systems** — ensuring performance, reliability, and clean engineering culture.
 
 ---
